@@ -1,0 +1,13 @@
+* {
+    color: whitesmoke
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
+
+input {
+    color:black
+}
+
